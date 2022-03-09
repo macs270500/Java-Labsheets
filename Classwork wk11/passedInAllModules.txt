@@ -1,0 +1,4 @@
+Last Name,First Name,Gender,Telephone Number,Average
+Paul,      Gavin,      M,     696-2315,        83
+John,      Smith,      M,     696-2642,        87
+Mary,       Jane,      F,     696-2642,        91
