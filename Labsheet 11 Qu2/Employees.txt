@@ -1,0 +1,4 @@
+John Smith M manager monthly 45000.00
+Sunil Bates M senior hourly 700.00 45
+Ezio Auditore M senior hourly 1500.00 45
+Eva Leung F officer monthly 30500.00
